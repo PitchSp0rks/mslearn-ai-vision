@@ -35,7 +35,7 @@ def main():
     credential=AzureKeyCredential(ai_key)
 )
 
-)
+
 
         
         # Analyze image
